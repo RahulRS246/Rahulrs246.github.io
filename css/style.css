@@ -350,6 +350,26 @@ section{
     border: 5px solid aliceblue;
 }
 
+/*project view button*/
+.projects .carousel .card a{
+    display: inline-block;
+    background: crimson;
+    color: aliceblue;
+    font-size: 12px;
+    padding: 10px 10px;
+    margin: 20px 20px 20px 20px;
+    text-align: center;
+    font-weight: 200;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+
+.projects .carousel .card:hover a{
+   background: #222;
+ /*  border: 1px solid aliceblue;*/
+}
+
 .owl-dots{
     text-align: center;
     margin-top: 20px;
