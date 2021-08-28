@@ -423,7 +423,7 @@ section{
 }
 
 .contact .title::after{
-    content: "get in touch";
+    content: "Get in touch";
     position: absolute;
     bottom : -13px;
     left: 50% ;
